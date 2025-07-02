@@ -1,2 +1,4 @@
 # REACT_PROJECT
 GPA_CALCULATOR USING REACT JS
+<br>
+author -> Danish
